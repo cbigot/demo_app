@@ -8,7 +8,7 @@ gem 'rails', '3.2.13'
 group :development , :test do
   gem 'sqlite3', '1.3.7'
   # To use debugger
-  gem 'ruby-debug19',:require => 'ruby-debug'
+  # gem 'ruby-debug19',:require => 'ruby-debug'
 end
 
 # Gems used only for assets and not required
